@@ -10,15 +10,19 @@ If you need help installing Python, visit https://installpython3.com/
 
 
 ### Installation
-You need python install on your machine
+You need python install on your machine 
 
+วิธีติดตั้ง python on windows https://installpython3.com/windows/
+
+
+### add-on lib
 ```
-pip install pyautogui
-pip install pydirectinput
+C:\>pip install pyautogui
+C:\>pip install pydirectinput
 ```
 
 ### How to run
 
 ```
-python autoclick.py
+C:\>python autoclick.py
 ```
