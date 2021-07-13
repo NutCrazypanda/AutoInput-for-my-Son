@@ -4,4 +4,4 @@ import time
 
 while True:
     pydirectinput.click()
-    #time.sleep(1)
+    time.sleep(1)
